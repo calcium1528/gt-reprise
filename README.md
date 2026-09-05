@@ -5,4 +5,11 @@ Featuring a nonbinary child who continously reset for multiple years to explore 
 Yes, yes, I know, it's not entirely original. "Glitchtale" is already an existing alternate timeline concept, but just please take a look at its narrative for one second.<br>
 Why was Frisk able to reset for 30 years without physically aging? Why was Sans's previously defunt machine able to bring the dead back from the literal Void of all places? There are so many plot holes here and there that I would have grandchildren by the time I listed all of them out.
 
-Enjoy. When the site becomes less empty.
+Enjoy. When the site becomes less empty[^1].
+
+Currently available links:
+[Normal route](https://calcium1528.github.io/gt-reprise/story/routes/normal/dummy)
+[Frisk](https://calcium1528.github.io/gt-reprise/characters/frisk)
+[Chara](https://calcium1528.github.io/gt-reprise/characters/chara)
+
+[^1] There are already plans for two entirely different routes. Be aware.
