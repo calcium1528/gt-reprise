@@ -5,6 +5,8 @@ What exactly is a SOUL? What constitutes a SOUL? What do different SOULs allow? 
 A SOUL is basically a [[HEART-SHAPED OBJECT]] that you have in your chest that lets you use magic.<br>
 Technically, it's not that simple. There are a few kinds of SOULs, which I'll classify as human, monster, grey, and empty.
 
+## (Informal) Definitions
+
 ### Human SOUL
 Some of the terminology will make sense when there is a dedicated [SOUL Trait](https://calcium1528.github.io/general/soul/traits) page, in which that link will actually take you somewhere.
 
