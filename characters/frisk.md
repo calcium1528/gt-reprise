@@ -1,10 +1,10 @@
 # Frisk
 ...where do I start?
 
-|Entry|Data|
+|Chronological date|Data|
 |:---|---:|
-|Date of birth|199X|
-|Fell into Mount Ebott|201X|
+|Date of birth|200X|
+|First fall into Mount Ebott|201X|
 |Time spent RESETting|4 years|
 
 So their lore is complicated. Real complicated. Got me utterly devastated at how much we know yet simultaneously don't know about them and their powers.
