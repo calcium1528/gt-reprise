@@ -31,7 +31,7 @@ Its magic is derived from the user's will, and in extreme cases, it can grant th
 
 One may lose Determination when feeling hopeless or demotivated in a situation.
 
-#### Bravery
+### Bravery
 Bravery is driven by *courage*.<br>
 It has one of the most aggressive combat styles of all seven traits.
 
@@ -76,13 +76,41 @@ Its magic allows users to manifest barrier(s) around them and/or their allies, p
 One may lose Kindness through acts of cruelty or greed.
 
 ### Patience
-I'm very going to rewrite this.
+Patience is driven by *tolerance and restraint*.<br>
+It is one of the most flexible traits with wildly varying abilities.
+
+People with Patience are calm and conservative. They don't mind whether something is to take a considerably long amount of time.<br>
+They often bear completely seperate magical capabilities, depending on what their interpretation of "patience" is, apparently.
+
+Patience's combat style revolves around waiting for the right time to strike. Users can't just attack randomly and expect to assert absolute dominance over the battlefield.<br>
+Its magic commonly shows up as strings/ropes that can restrain others' movements. Thickness is variable, with some razor-sharp wires and some thick tentacles. Extreme cases even allow local time slowdown, which lets Patience gain an edge in fast-paced battles.
+
+One may lose Patience because of anxiety and the tendency to rush actions.
 
 ### Integrity
-I'm absolutely going to rewrite this.
+Integrity is driven by *moral principles and honesty*.<br>
+It is the most common dominant trait, but ironically, it is also one that is easiest to lose.
+
+People with Integrity adhere to their own morals/principles and know to remain true to themselves.<br>
+There is, however, a glaring flaw: even the smallest of mistakes can compromise their "integrity", like lying to others or covering up someone's mishaps/wrongdoings.<br>
+Sometimes the mistakes aren't immediately visible; sometimes they are objectively correct decisions. Integrity users have to stay morally and emotionally strong enough to deal with those situations.
+
+Integrity's combat style `[pending update, please wait...]`<br>
+Its magic `[pending update, please wait...]`
+
+One can lose Integrity through breaking their own morals or break down in an emotionally difficult circumstances.
 
 ### Perseverance
-I'm definitely going to rewrite this.
+Perseverance is driven by *endurance and resillience*.<br>
+It is most similar to Determination, but crucially, the two are still seperate traits.
+
+People with Perseverance are not easily wavered by obstacles, and will keep striving to continue despite their hardships.<br>
+Merely setting a goal to work on already works to enhance their magic, somewhat like Determination.
+
+Perseverance's combat style `[pending update, please wait...]`<br>
+Its magic `[pending update, please wait...]`
+
+One may lose Perseverance by becoming lazy or giving up.
 
 ## Inverted traits
 Subtle foreshadowing here.
