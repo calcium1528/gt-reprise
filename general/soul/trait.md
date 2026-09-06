@@ -71,7 +71,7 @@ Their first measure is mostly to drive conflicts toward peaceful resolutions, wh
 The catch is, that soft-heartedness makes them more vulnerable in combat than other traits.
 
 Kindness's combat style is exceptionally defense-oriented, largely serving to block attacks from opponents.<br>
-Its magic allows users to manifest barrier(s) around them and/or their allies, protecting them from impending danger.
+Its magic allows users to manifest barrier(s) around them and/or their allies, protecting them from impending danger. They also have great restorative capabilities, mainly to ease pain or sometimes heal heavy injuries.
 
 One may lose Kindness through acts of cruelty or greed.
 
