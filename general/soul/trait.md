@@ -7,7 +7,7 @@ SOUL traits are powerful singularities of Chromatic Magic... wait I haven't defi
 SOUL traits are distinct traits represented by different colors that are tied to colorful magic. Okay, that actually works.[^1]
 
 What trait(s) a person is able to develop (aka. make dominant) is heavily influenced by their personal life experiences, personality, and behavior.<br>
-The dominant trait(s) define the SOUL's displayed color(s), alongside the user's presentation, mainly their eye—and sometimes hair—coloration Even the nice things like their favorite color.<br>
+The dominant trait(s) define the SOUL's displayed color(s), alongside the user's presentation, mainly their eye—and sometimes hair—coloration. Even the niche things like their favorite color.<br>
 A person with a poly-trait SOUL can have multiple colors stack onto their appearance.<br>
 (Psst. You might be more attractive with a poly-trait SOUL. Who knows?)
 
