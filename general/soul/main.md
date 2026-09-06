@@ -5,7 +5,7 @@ What exactly is a SOUL? What constitutes a SOUL? What do different SOULs allow? 
 A SOUL is basically a [[HEART-SHAPED OBJECT]] that you have in your chest that lets you use magic.<br>
 Technically, it's not that simple. There are a few kinds of SOULs, which I'll classify as human, monster, grey, and empty.
 
-## (Informal) Definitions
+## (Slightly informal) Definitions
 
 ### Human SOUL
 Some of the terminology will make sense when there is a dedicated [SOUL traits](https://calcium1528.github.io/gt-reprise/general/soul/trait) page, in which that link will actually take you somewhere.
@@ -29,7 +29,7 @@ Finally, something worth talking about.
 A grey SOUL is a human SOUL without a dominant trait. Every human is born with a grey SOUL, and through magical training, they can naturally develop a specific trait and make it dominant.<br>
 A person can lose their dominant trait(s) often through the act of going against it behaviorally.
 
-On one hand, children are far more suspectible to losing their trait, which will put them back to a grey SOUL. It is how it is, they are still little kids who have just started training and growing a personality adjacent to their trait.<br>
+On one hand, children are far more susceptible to losing their trait, which will put them back to a grey SOUL. It is how it is, they are still little kids who have just started training and growing a personality adjacent to their trait.<br>
 They can sometimes develop a completely different trait, which is not out of the norm. Most people generally cycle through at least a trait or two before eventually settling on one.
 
 Adults, on the other hand, are less likely to be able to recover from trait loss. As their dominant trait(s) have been deeply consolidated and they are accustomed to being the way they are, their grey state usually lasts longer. For them, trait loss is more disruptive than children. Probably akin to a magnitude 10 earthquake.
