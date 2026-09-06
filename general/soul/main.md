@@ -8,11 +8,13 @@ Technically, it's not that simple. There are a few kinds of SOULs, which I'll cl
 ## (Informal) Definitions
 
 ### Human SOUL
-Some of the terminology will make sense when there is a dedicated [SOUL Trait](https://calcium1528.github.io/general/soul/traits) page, in which that link will actually take you somewhere.
+Some of the terminology will make sense when there is a dedicated [SOUL traits](https://calcium1528.github.io/gt-reprise/general/soul/trait) page, in which that link will actually take you somewhere.
 
 A human SOUL is, well, a SOUL that humans possess. Easy, right?<br>
-Every human SOUL has a mix of all 7 conventional traits, and they generally consolidate into one dominant trait that defines part of their appearance, combat style, and most of their magic arsenal.<br>
-A traited SOUL, as I'll briefly define, is a human SOUL with one or more dominant traits.
+Every human SOUL has a mix of all 7 base traits, and they generally consolidate into one dominant trait that defines part of their appearance, combat style, and most of their magic arsenal.
+
+A traited SOUL, as I'll briefly define, is a human SOUL with at least one dominant trait.<br>
+Dual-trait SOULs, or poly-trait SOULs in general, are rare occurrences where one is able to simultaneously develop two or more dominant traits within their SOUL. This greatly enhances their magic potential and, for the select few who choose this path, unlocks exclusive compound abilities.
 
 Historically, there have been a handful of rare cases of naturally born poly-trait SOULs, but the exact number until today remains a mystery.<br>
 There are documented cases of people who attempted to invert their trait and hence their SOUL, of which a few succeeded, but the process of inversion is a seperate topic for the traits page.
@@ -26,8 +28,6 @@ Finally, something worth talking about.
 
 A grey SOUL is a human SOUL without a dominant trait. Every human is born with a grey SOUL, and through magical training, they can naturally develop a specific trait and make it dominant.<br>
 A person can lose their dominant trait(s) often through the act of going against it behaviorally.
-
-By extension, dual-trait SOULs, or poly-trait SOULs in general, are rare occurrences where one is able to simultaneously develop two or more dominant traits within their SOUL. This greatly enhances their magic potential and, for the select few who choose this path, unlocks exclusive compound abilities.
 
 On one hand, children are far more suspectible to losing their trait, which will put them back to a grey SOUL. It is how it is, they are still little kids who have just started training and growing a personality adjacent to their trait.<br>
 They can sometimes develop a completely different trait, which is not out of the norm. Most people generally cycle through at least a trait or two before eventually settling on one.
