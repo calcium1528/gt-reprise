@@ -1,5 +1,5 @@
 # SOUL traits
-**WARNING: This page contains sophisticated foundational shit. I am not sorry for writing it this way. This is not finished.*
+**WARNING:* This page contains sophisticated foundational shit. I am not sorry for writing it this way. This is not finished.*
 
 ## Overview
 SOUL traits are powerful singularities of Chromatic Magic... wait I haven't defined Chromatic Magic—
@@ -15,7 +15,7 @@ lol no. (i'm fucking terrified of the prequel lore)
 
 ### Base traits
 There are 7 base traits, which are Determination, Bravery, Justice, Kindness, Patience, Integrity, and Perseverance.<br>
-Every human SOUL naturally contains a mixture of all base traits.
+Every human SOUL naturally contains a mixture of all base traits, with the dominant trait(s) taking the majority.
 
 #### Determination
 Determination is the manifestation of... what exactly was it? Willpower? Huh. Isn't that a bit too... generic?<br>
