@@ -8,7 +8,7 @@ Why was Frisk able to reset for 30 years without physically aging? Why was Sans'
 Enjoy. When the site becomes less empty[^1][^2].
 
 Currently available links:
-- [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/dummy)
+- [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/main)
 - [SOUL](https://calcium1528.github.io/gt-reprise/general/soul/main)
 - [Frisk](https://calcium1528.github.io/gt-reprise/character/frisk)
 - [Chara](https://calcium1528.github.io/gt-reprise/character/chara)
