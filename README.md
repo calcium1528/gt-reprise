@@ -17,4 +17,4 @@ Currently available links:
 
 [^1]: There are already plans for two entirely different routes. Be aware.
 
-[^2]: There is a horizontal rule when viewing the README on the repo page, but not when this file is viewed in Pages. Why.
+[^2]: There is an automatically inserted horizontal rule when viewing the README on the repo page, but not when this file is viewed in Pages. Why.
