@@ -21,7 +21,7 @@ Placeholding.
 Placeholded.
 
 ## Season 2
-Now I thought, "maybe S1 was merely the beginning, this next season's about to rectify and continue on it," and it couldn't be worse than this.<br>
+Now I thought, "maybe S1 was merely the beginning, this next season's about to rectify many of the plot holes and continue on it," and it couldn't be worse than this.<br>
 But after seeing Frisk just "lol goodbye" in S2E5 has made me question why I even watched Glitchtale and pulled myself down this rabbit hole.
 
 ### Episode 1 — My Sunshine
