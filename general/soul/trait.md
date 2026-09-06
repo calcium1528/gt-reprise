@@ -91,4 +91,4 @@ Subtle foreshadowing here.
 
 [^1]: Oh my word this is gonna be a real hassle trying to run the original Glitchrale lore through the Reprise filtration layer.
 
-[^2]: (See S2E5) For continuity purposes, Chara's SOUL was technically Frisk's. The latter gave away their SOUL and pursued Chara to take their place in the corrupted timeline, so as to save it from its slow decay to death.
+[^2]: (See S2E5) For continuity purposes, Chara's SOUL was technically Frisk's. The latter gave away their SOUL and pushed Chara to take their place in the corrupted timeline, so as to save it from its slow decay to death.
