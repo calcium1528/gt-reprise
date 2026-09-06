@@ -25,9 +25,9 @@ It is the hardest trait to develop and make dominant out of all seven. It is gen
 People with Determination usually strive toward one goal: *make my desires reality, even if it sounds absurd*. This is what lets them stay determined in the first place.<br>
 Setting an ambitious goal may naturally push them towards completing it, or in other words, make them determined to complete it. Do you see where I'm going?
 
-Its magic is derived from the user's will, and in extreme cases, it can grant them abilities akin to total temporal authority. Only one SOUL has ever possessed that ability in history, and that is Frisk's[^2].
-
 Determination's combat style revolves around endurance, somewhat similar to Perseverance. As long as the user remain determined throughout a fight, taking them down would be very difficult, and, as most claim, near-impossible.
+
+Its magic is derived from the user's will, and in extreme cases, it can grant them abilities akin to total temporal authority. Only one SOUL has ever possessed that ability in history, and that is Frisk's[^2].
 
 One may lose Determination when feeling hopeless or demotivated in a situation.
 
@@ -48,10 +48,32 @@ Its magic allows users to dash through attacks that would normally harm them. Th
 One may lose Bravery when feeling coward, ashamed, or feared.
 
 ### Justice
-I'm going to rewrite this.
+Justice is driven by *personal moral convinction*.<br>
+It is commonly associated with leadership, military, royalty, and politics.
+
+People with Justice follow their own sense of what's right and what's not.<br>
+If they sincerely believe their action is just given the circumstances, they will do it in spite of others' personal views, which can sometimes be outright opposition.
+
+Justice's combat style is commonly direct but otherwise generic compared to other traits.<br>
+Its magic lets users fire bullets quickly where they're looking. By charging their attack, they can summon bigger blasts, and in rare cases, powerful giant lasers.
+
+One may lose Justice if they do what they believe is unjust and/or be unwilling to serve justice.
 
 ### Kindness
-I'm also going to rewrite this.
+Kindness is driven by *hospitality and empathy*.<br>
+It is one of the hardest traits to develop and make dominant, often placed second to Determination.
+
+Kindness is difficult to master because hardly any people ever go out of their way to train it in the first place.<br>
+They aren't wrong here; genuine compassion by nature is already hard to maintain, not to mention when they are to pursue Kindness for possibly a lifetime.
+
+People with Kindness are often reluctant to fight, and they aren't necessarily willing to cause any harm, even to their enemies.<br>
+Their first measure is mostly to drive conflicts toward peaceful resolutions, which don't involve violent acts.<br>
+The catch is, that soft-heartedness makes them more vulnerable in combat than other traits.
+
+Kindness's combat style is exceptionally defense-oriented, largely serving to block attacks from opponents.<br>
+Its magic allows users to manifest barrier(s) around them and/or their allies, protecting them from impending danger.
+
+One may lose Kindness through acts of cruelty or greed.
 
 ### Patience
 I'm very going to rewrite this.
@@ -60,7 +82,7 @@ I'm very going to rewrite this.
 I'm absolutely going to rewrite this.
 
 ### Perseverance
-You know the trend.
+I'm definitely going to rewrite this.
 
 ## Inverted traits
 Subtle foreshadowing here.
