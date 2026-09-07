@@ -11,7 +11,7 @@ LET'S FREAKING DO THIS I'M SO SICK OF CANON'S TIMELINE—
 - 13XX-14XX: The original Council members began leaving their positions.
 - Early 14XX: The last original Council member resigns from their position.
 - Early-mid 14XX: The Wizard Council is disbanded due to lack of hereditary and willing rulers.
-- 198X: The first human, Chara, fell into the Underground.
+- 198X: Chara fell into the Underground.
 - 199X-201X: Six more humans followed Chara's steps, but never returned alive.
 - 201X: Frisk fell into the Underground.
 - 201X-205X: Frisk experimented with different outcomes, eventually exhausting every possible scenario. Technically lasting 4 years, the compounding effects of multiple RESETs and time dilation far outstretched this timespan.
