@@ -4,15 +4,17 @@
 |Entry|Data|
 |:---|:---|
 |Gender|Nonbinary|
-|Pronouns|they/them (initially)<br>they/them, she/her[^1] (since Weird route S2E10)|
-|SOUL Trait(s)|Determination (initially)<br>Determination, Fear[^2] (since Weird route S2E10)|
+|Pronouns|they/them (initially[^3])|
+|SOUL Trait(s)|Determination (initially[^3])|
 
 |Event|Date|
 |:---|:---|
-|Date of birth|200X (initially)<br>201X-205X (reborn by RESETs)|
+|Date(s) of birth|200X (initially)<br>201X-205X (reborn by RESETs)<br>Early 206X (WAIT WAIT WAIT THAT'S A SPOILER—)|
+|Date(s) of death|201X-205X (multiple times in the Underground, undone by RESETs)<br>Feburary 205X (in the Void)|
 |First fall into Mount Ebott|201X|
-|Time spent RESETting|4 years|
-|Date of death|201X-205X (in the Underground, all undone by RESET)<br>Feburary 205X (in the Void)|
+|Time spent RESETting|4 years (time dilation lengthened it to ~40 years)|
+|Last No Mercy run|Early January 205X|
+|Breaking the Barrier|Middle January 205X|
 
 So their lore is complicated. Real complicated. Got me utterly devastated at how much we know yet simultaneously don't know about them and their powers.
 
@@ -43,3 +45,5 @@ Expect me to rant more later on when this site grows.
 [^1]: Oh, you don't know how massive this is just yet. I said no to gendering Frisk, but you just have to imagine the utter confusion of the Dreemurr parents and basically everyone else alive besides Chara (for special reasons) when they look at their resurrected child and don't recognize them as anyone more than a lost girl from the streets. That aligns with the fact that Frisk's vessel is Betty's, and hence female. No, they are still nonbinary, only their presentation changed.
 
 [^2]: Ah. That's the other half of the resurrection story. If the first footnote was the result, this is the preparation. I'm not gonna spoil too much as the site is still growing.
+
+[^3]: The Weird route spoilers are still here, just not in your eyes anymore.
