@@ -12,7 +12,7 @@
 |Date(s) of birth|200X (initially)<br>201X-205X (reborn by RESETs)<br>Early 206X (WAIT WAIT WAIT THAT'S A SPOILER—)|
 |Date(s) of death|201X-205X (multiple times in the Underground, undone by RESETs)<br>Feburary 205X (in the Void)|
 |First fall into Mount Ebott|201X|
-|Time spent RESETting|4 years (time dilation lengthened it to ~40 years)|
+|Time spent RESETting|4 years (time dilation lengthened others' time perceptions to ~40 years)|
 |Last No Mercy run|Early January 205X|
 |Last Barrier break|Middle January 205X|
 
