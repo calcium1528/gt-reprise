@@ -1,13 +1,19 @@
 # Agate
 Oh you poor child. Or was she an adult? It's confusing.
 
+**Normal route:**
+
 |Entry|Data|
 |:---|:---|
-[Identities|Agate Lightvale (formerly)<br>Bête Noire|
-|Aliases|Betty|
+|Full name|Agate Lightvale (formerly)<br>Bête Noire|
+|Aliases|Betty (Bête Noire)|
 |Gender|Female|
-|Pronouns|she/her (formerly)<br>she/her, it/its (Betty)|
+|Pronouns|she/her (formerly)<br>she/her, it/its (Bête Noire)|
 |SOUL traits|Bravery (formerly)<br>Fear|
+|Relationships|Frisk (enemy)<br>Chara (enemy)<br>Asriel (victim, former minion, enemy)<br>Sans (victim, former minion, enemy)<br>Gaster (killer, enemy)<br>Amber (younger sister, victim, vessel)<br>Copper (twin brother, victim)|
+
+**Weird route changes:**<br>
+Not yet.
 
 No Event table yet.
 
