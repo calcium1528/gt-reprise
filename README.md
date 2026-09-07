@@ -14,12 +14,12 @@ Yes, yes, I know, it's not entirely original. "Glitchtale" is already an existin
 
 There are so many plot holes here and there that I would have grandchildren by the time I laid all of them out.
 
-Enjoy. When the site becomes less empty[^1].
+Enjoy. When the site becomes less empty.
 
 ## Currently available links
 - [Reality](https://calcium1528.github.io/gt-reprise/general/reality)
 - [History](https://calcium1528.github.io/gt-reprise/story/history)
-- [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/main)
+- [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/main)[^1]
 - [SOUL](https://calcium1528.github.io/gt-reprise/general/soul/main)
 - [SOUL traits](https://calcium1528.github.io/gt-reprise/general/soul/trait)
 - [Frisk](https://calcium1528.github.io/gt-reprise/character/frisk)
