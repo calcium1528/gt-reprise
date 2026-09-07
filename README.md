@@ -1,6 +1,10 @@
 # Glitchtale: Reprise
 Welcome to the home for the all-new Undertale fanmade story, "Glitchtale: Reprise"!<br>
-Featuring a nonbinary child who continously reset for multiple years to explore "every possible outcome", a cute little pink demon girl who tries to ruin your effort to save the world, and perhaps 100+ more main/side characters and stupid plot I haven't got time to list here yet.
+This series is currently starring:
+- A nonbinary child who continously reset for multiple years to explore "every possible outcome".
+- A tired comedic skeleton guy that happens to get PTSD every time you mention the word "RESET" in front of him.
+- A cute little pink demon girl who tries to ruin your effort to save the world and also murdered two of her family members just because she hated losing.
+- And perhaps 100+ more main/side characters and stupid plot I haven't got time to list here yet.
 
 Yes, yes, I know, it's not entirely original. "Glitchtale" is already an existing alternate timeline concept, but just please take a look at its narrative for one second.<br>
 - Why was Frisk able to reset for 30 years without physically aging?
@@ -10,24 +14,27 @@ Yes, yes, I know, it's not entirely original. "Glitchtale" is already an existin
 
 There are so many plot holes here and there that I would have grandchildren by the time I laid all of them out.
 
-Enjoy. When the site becomes less empty[^1][^2].
+Enjoy. When the site becomes less empty[^1].
 
 ## Currently available links
+- [Reality](https://calcium1528.github.io/gt-reprise/general/reality)
+- [History](https://calcium1528.github.io/gt-reprise/story/history)
 - [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/main)
 - [SOUL](https://calcium1528.github.io/gt-reprise/general/soul/main)
 - [SOUL traits](https://calcium1528.github.io/gt-reprise/general/soul/trait)
 - [Frisk](https://calcium1528.github.io/gt-reprise/character/frisk)
 - [Chara](https://calcium1528.github.io/gt-reprise/character/chara)
-- [Some pink/orange girl](https://calcium1528.github.io/gt-reprise/character/agate)
+- [Agate/Betty](https://calcium1528.github.io/gt-reprise/character/agate)[^2]
 
 ## Currently unavailable links (this is NOT all)
 - [Sans](https://calcium1528.github.io/gt-reprise/character/sans)
 - [Asriel](https://calcium1528.github.io/gt-reprise/character/asriel)
-- [Timelines](https://calcium1528.github.io/gt-reprise/general/timeline/main)
+- [Toriel](https://calcium1528.github.io/gt-reprise/character/toriel)
+- [Asgore](https://calcium1528.github.io/gt-reprise/character/asgore)
 - [Slightly awkward route that involves increasingly sophisticated prerequisites](https://calcium1528.github.io/gt-reprise/story/route/weird/main)
 
 ---
 
 [^1]: There are plans for two entirely different routes. Be aware.
 
-[^2]: There is an automatically inserted horizontal rule when viewing the README on the repo page, but not when this file is viewed in Pages. Why.
+[^2]: These two were merged with purpose.
