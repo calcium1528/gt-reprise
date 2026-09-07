@@ -2,7 +2,7 @@
 I am in absolute dismay with `timeline2.file`. I am not repeating the author's mistakes.
 
 ## Overview
-A timeline is a continuous sequence of events making up a universe’s history.<br>
+A timeline is a continuous sequence of events making up an universe’s history.<br>
 A SAVE file (aka. a file) is a save state of a timeline.
 
 A timeline, in normal conditions, only ever has one SAVE file, and it is frequently updated over time.<br>
