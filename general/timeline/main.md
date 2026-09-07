@@ -12,7 +12,7 @@ Certain individuals with the Determination trait can interact with SAVE files th
 These functions do not necessarily affect everyone equally. Certain people may retain memories or awareness of previous versions of the timeline.
 
 The one and only currently active timeline in Reprise is internally labeled as `file0`.<br>
-An often discussed theory states that multiple timelines can exist at once, but no one has ever attempted to do so because of the possible multiversal interference implications. There has been no proof nor any counter-argument made on this theory.
+An often discussed theory states that multiple timelines can exist at once, but no one has ever attempted to do so because of the possible multiversal interference implications. There has been no proof nor any counter-evidence made on this theory.
 
 ## Functions
 These are very brief, and I'll go more about them later.
