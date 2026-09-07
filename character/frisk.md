@@ -14,7 +14,7 @@
 |First fall into Mount Ebott|201X|
 |Time spent RESETting|4 years (time dilation lengthened it to ~40 years)|
 |Last No Mercy run|Early January 205X|
-|Breaking the Barrier|Middle January 205X|
+|Last Barrier break|Middle January 205X|
 
 So their lore is complicated. Real complicated. Got me utterly devastated at how much we know yet simultaneously don't know about them and their powers.
 
