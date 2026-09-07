@@ -2,8 +2,8 @@
 LET'S FREAKING DO THIS I'M SO SICK OF CANON'S TIMELINE—
 
 ## Timeline
-- 10XX: The Human Kingdom's founding.
-- Late 11XX: The Wizard Council's establishment.
+- 10XX: The Human Kingdom and Monsterkind coexist peacefully.
+- Late 11XX: The Wizard Council is established.
 - Early 12XX: Tension arises between the Human Kingdom and Monsterkind.
 - Late-mid 12XX: The Human-Monster War happens.
 - Late 12XX: The Barrier is created and the Human Kingdom seals Monsterkind in the Underground.
