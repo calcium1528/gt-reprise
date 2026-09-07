@@ -12,15 +12,22 @@ There are so many plot holes here and there that I would have grandchildren by t
 
 Enjoy. When the site becomes less empty[^1][^2].
 
-Currently available links:
+## Currently available links
 - [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/main)
 - [SOUL](https://calcium1528.github.io/gt-reprise/general/soul/main)
 - [SOUL traits](https://calcium1528.github.io/gt-reprise/general/soul/trait)
 - [Frisk](https://calcium1528.github.io/gt-reprise/character/frisk)
 - [Chara](https://calcium1528.github.io/gt-reprise/character/chara)
+- [Some pink/orange girl](https://calcium1528.github.io/gt-reprise/character/agate)
+
+## Currently unavailable links (this is NOT all)
+- [Sans](https://calcium1528.github.io/gt-reprise/character/sans)
+- [Asriel](https://calcium1528.github.io/gt-reprise/character/asriel)
+- [Timelines](https://calcium1528.github.io/gt-reprise/general/timeline/main)
+- [Slightly awkward route that involves increasingly sophisticated prerequisites](https://calcium1528.github.io/gt-reprise/story/route/weird/main)
 
 ---
 
-[^1]: There are already plans for two entirely different routes. Be aware.
+[^1]: There are plans for two entirely different routes. Be aware.
 
 [^2]: There is an automatically inserted horizontal rule when viewing the README on the repo page, but not when this file is viewed in Pages. Why.
