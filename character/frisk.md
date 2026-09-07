@@ -46,4 +46,4 @@ Expect me to rant more later on when this site grows.
 
 [^2]: Ah. That's the other half of the resurrection story. If the first footnote was the result, this is the preparation. I'm not gonna spoil too much as the site is still growing.
 
-[^3]: The Weird route spoilers are still here, just not in your eyes anymore.
+[^3]: The Weird route spoilers are still here, just not in your eyes anymore. Speaking of, here's 1[^1] and 2[^2].
