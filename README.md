@@ -2,8 +2,8 @@
 Welcome to the home for the all-new Undertale fanmade story, "Glitchtale: Reprise"!<br>
 This series is currently starring:
 - A nonbinary child who continously reset for multiple years to explore "every possible outcome".
-- A tired comedic skeleton guy that happens to get PTSD every time you mention the word "RESET" in front of him.
-- A cute little pink demon girl who tries to ruin your effort to save the world and also murdered two of her family members just because she hated losing.
+- A tired skeleton comedian that happens to get PTSD every time you mention the word "RESET" in front of him.
+- A cute little pink demon girl who tries to destroy the world and also murdered two of her family members just because she hated losing.
 - And perhaps 100+ more main/side characters and stupid plot I haven't got time to list here yet.
 
 Yes, yes, I know, it's not entirely original. "Glitchtale" is already an existing alternate timeline concept, but just please take a look at its narrative for one second.<br>
