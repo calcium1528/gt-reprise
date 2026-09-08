@@ -2,7 +2,7 @@
 What exactly is a SOUL? What constitutes a SOUL? What do different SOULs allow? What nonsensical interpretations of them need to be smashed and thrown into a landfill? Find out in today's glossary of SOULs in Glitchtale! (bundled with Reprise's massive retconning spree)
 
 ## Overview
-A SOUL is the metaphysical essence of a living entity, manifested physically as a heart-shaped object. It serves as the primary interface between a being and its magical abilities.
+A SOUL is the metaphysical essence of a living entity, manifested physically as a heart-shaped object. It serves as the primary interface between a being and its magical abilities.<br>
 The exact properties of a SOUL depend on who or what possesses it.
 
 ## Fundamental types
@@ -40,8 +40,8 @@ Boss Monsters' SOULs can persist for a while after death, but usually it's too s
 
 ### Grey SOUL
 A grey SOUL is a human SOUL without a dominant trait.<br>
-Every human is born with a grey SOUL, and through magical training, they can naturally develop a specific trait and make it dominant.<br>
-A person can lose their dominant trait(s) often through the act of going against it behaviorally.
+Every human is born with a grey SOUL, and through magical training, they can naturally develop a specific trait and make it dominant. In rare instances, one can develop multiple traits to create a poly-trait SOUL.<br>
+A person can lose their dominant trait(s) often through the act of going against them behaviorally.
 
 On one hand, children are far more susceptible to losing their trait, which will put them back to a grey SOUL. They have just started to develop a personality, so it is to be expected.<br>
 They can sometimes develop a completely different trait in the process. Most people generally cycle through at least a handful of traits before eventually settling on one or multiple.
