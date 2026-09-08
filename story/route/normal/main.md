@@ -6,7 +6,27 @@ So I thought I could start from the beginning and not encounter much trouble rig
 Boy do I deeply regret saying that.
 
 ### Episode 1 — Megalomaniac
-Placeholder.
+The first to not be a placeholder. Otherwise very informal.
+
+Frisk performs a No Mercy run flawlessly then enters the Last Corridor. They now have  one obstacles left in their way: Sans.
+
+Sans, after having witnessed countless No Mercy routes end exactly how it has always ended—which to him is basically Monsterkind's extinction—decides he isn't going to play games anymore.<br>
+This is the real deal. *This child is not passing him in any way whatsoever.*
+
+Frisk dies again and again. Progress seems to have halted by the 7th LOAD. They can't keep up with Sans's bone-chilling (no pun intended) assault anymore.<br>
+They slowly realize "pacifism" is a word in the English dictionary meaning something along the lines of "the belief that war and violence are unjustifiable."<br>
+They begin trying to SPARE Sans instead. Which gets the attention of another individual. The first fallen child's spectral form, Chara.
+
+Chara is not particularly happy about Frisk's sudden change of tactics. Being fueled by Frisk's own HATE, they can't support the notion of peace their partner is going towards.<br>
+So they do the only sensible thing. Trap them in a HATE prison and deal with this skeleton themselves.
+
+Sans starts to struggle and grows TIRED, while Chara keeps fighting him and getting absurd near-misses, much to Frisk's protest.<br>
+By the power of plot armor, they successfully break out of the HATE prison and tank the hell out of Chara's fatal slash, which they meant to direct towards Sans.
+
+After wasting 0.1 seconds processing the unholy situation that just happened before his eyes, Sans swiftly grabs Frisk's SOUL and gains 2 HP, 2 ATK, and 2 DEF.<br>
+I know it's a running joke that Sans actually has those one-for-every-variable rock-bottom stats, but hey, it's funny, and no one has ever argued against it. Except maybe a few AU makers from 2015 that I'm not aware of. And certainly those that make Frisk female, because Sans has to be hot as fuck.
+
+Sans beats the shit out of Chara and performs an unprecedented RESET at the Last Corridor, which normally wouldn't have done any harm, but it is a monster that RESETted and not a human, so the timeline begins to glitch and shit goes bad from here on out.
 
 ### Episode 2 — Yet Darker
 Placeholder.
@@ -42,7 +62,7 @@ Placeholdery.
 ### Episode 6 — Game Over
 Placehelder.
 
-### Episode 7 — Hate
+### Episode 7 — HATE
 Placeholster.
 
 ### Episode 8 — Animosity
