@@ -9,12 +9,12 @@
 
 |Event|Date|
 |:---|:---|
-|Date(s) of birth|200X (initially)<br>201X-205X (reborn by RESETs)<br>Early 206X (WAIT WAIT WAIT THAT'S A SPOILER—)|
-|Date(s) of death|201X-205X (multiple times in the Underground, undone by RESETs)<br>Feburary 205X (in the Void)|
+|Date(s) of birth|200X (initially)<br>201X-203X (reborn by RESETs)<br>Early 204X (WAIT WAIT WAIT THAT'S A SPOILER—)|
+|Date(s) of death|201X-203X (multiple times in the Underground, undone by RESETs)<br>Feburary 203X (in the Void)|
 |First fall into Mount Ebott|201X|
 |Time spent RESETting|4 years (time dilation lengthened others' time perceptions to ~40 years)|
-|Last No Mercy run|Early January 205X|
-|Last Barrier break|Middle January 205X|
+|Last No Mercy run|Early January 203X|
+|Last Barrier break|Middle January 203X|
 
 So their lore is complicated. Real complicated. Got me utterly devastated at how much we know yet simultaneously don't know about them and their powers.
 
