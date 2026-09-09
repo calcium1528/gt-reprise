@@ -1,6 +1,6 @@
 # Glitchtale: Reprise
 Welcome to the home for the all-new Undertale fanmade story, "Glitchtale: Reprise"!<br>
-This series's mission statement: "*define canon.*"
+This series's mission statement: *"making valid fan interpretations (Reprise) of fandom document (GT's Fandom wiki) of canon information (GT animatics and Meropos wiki)."*
 
 Canon is currently starring:
 - A nonbinary child who continously reset for multiple years to explore "every possible outcome".
