@@ -33,8 +33,8 @@ The second to not be a placeholder.
 
 The Grey Room makes its return in Frisk's probably 1037th run in their entire history RESETting.
 
-Frisk and Sans are chilling in Grillby's. Probably just snacking. After going through increasingly unhealthy meals, they step foot into Waterfall.<br>
-While traveling, they find themselves in a hallway that shouldn't have been here. Maybe an illusion? They still don't know how FUN values work anyway, and they never will.
+Frisk and Sans want to walk to Grillby's. Probably to snack. After going through increasingly unhealthy meals before reaching Waterfall, they decide that another course won't hurt.<br>
+While traveling, Frisk finds themselves in a hallway that shouldn't have been here. Maybe an illusion? They still don't know how FUN values work anyway, and they never will.
 
 Entering the Grey Room, Gaster is waiting  for them with a dubious-as-hell SAVE point.<br>
 Inspecting reveals a completely unaltered file interface. That shouldn't normally exist in the Void, where timeline manipulation powers don't quite function here, but give or take, Frisk lowkey needs it to leave because Gaster locked the fucking door shortly after.<br>
@@ -47,7 +47,8 @@ Two 360° turns later, Sans realizes Frisk has been missing from Waterfall and g
 Sans teleports inside and blasts Gaster and his stinking void goo away, freeing Frisk's SOUL for him to take.<br>
 Even with their SOUL, Sans can't teleport out of the Grey Room, because it's part of the Void, and the Void interferes with conventional magic in general. One dead butterfly later, Sans vaporizes the door and brings him and Frisk out safely.
 
-Gaster cannot accept this shit and walks out of the Void by himself (since there is no door trapping him anymore), turning back into his base real-world form with his 7 Chromatic Hands.
+Gaster cannot accept this shit and walks out of the Void by himself (since there is no door trapping him anymore), turning back into his base real-world form with his 7 Chromatic Hands.<br>
+Techincally, he just wanted to come back after possibly centuries of being in the Void, but his method of doing so contradicts Sans's goal to protect Frisk. Extremely short sentence that should encapsulate most of the emotional plot.
 
 Sans and Gaster fight like crazy. I'm not summarizing that entire sequence, but in the end, Gaster is worn out and is defeated.<br>
 Sans locks Gaster back in the Grey Room. He RESETs again, causing the timeline to break down even more. Frisk lives another day.
