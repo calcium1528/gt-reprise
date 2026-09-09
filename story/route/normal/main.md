@@ -25,7 +25,7 @@ Accumulated timeline glitches resulted in Chara gaining an empty SOUL and a vess
 
 Placeholding.
 
-### [Episode 5 — Continue]
+### Episode 5 — Continue
 > For the full plot, see [Continue][s1e5].
 
 Placeholded.
