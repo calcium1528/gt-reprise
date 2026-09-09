@@ -76,7 +76,7 @@ Sans initially shrugs it off, but after Flowey goes into Frisk's state, well, he
 Arriving at the True Lab, Sans and Flowey confront Chara directly, stating they are here to save Frisk. Chara ignores them and engages first.<br>
 They exchange blows while the Extraction machine keeps running in the background. Attempts to stop it fail because the dark substance is encasing it and deflecting all incoming attacks. When any attacks do connect, the substance heals to quickly for that damage to matter.
 
-Eventually, the Extraction machine finishes, and its Determination resevoir opens up. Sans, Flowey, and Chara race to take it, with Flowey trying to restrain Chara so Sans can reach it in time.<br>
+Eventually, the Extraction machine finishes, and its Determination reservoir opens up. Sans, Flowey, and Chara race to take it, with Flowey trying to restrain Chara so Sans can reach it in time.<br>
 Chara slices themself in half to free themself. Flowey can't regrab them quick enough, and they fly straight for the Determination.<br>
 The Determination flows into their SOUL immediately, and a shockwave follows right after, covering the area in smoke.
 
