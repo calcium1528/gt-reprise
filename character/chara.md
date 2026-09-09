@@ -9,10 +9,10 @@ Oh, now we're talking.
 
 |Event|Date|
 |:---|:---|
-|Date of birth|197X (initially)<br>Early Janurary 205X (since S1E3)<br>Late Feburary 205X (since S2E6P1)|
-|First fall into Mount Ebott|198X|
+|Date of birth|197X (initially)<br>Early Janurary 203X (reborn since S1E3)<br>Late Feburary 203X (reborn since S2E6P1)|
+|First fall into Mount Ebott|Mid 198X|
 |Time spent Underground|3 years|
-|Date of death|198X-199X (initially)<br>Middle Janurary 205X (from S1E5)<br>Late Feburary 205X (from S2E6P1)|
+|Date of death|Late 198X (initially)<br>Mid Janurary 203X (from S1E5)<br>Early March 203X (from S2E6P1)|
 
 I added months. Yippee.
 
