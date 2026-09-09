@@ -123,8 +123,6 @@ Placeholdon't.
 
 [^1]: If you're wondering, there is a canonical Season 3 in the works, but for fuck's sake the author hasn't released an official episode for at least 5 YEARS. They rebranded it to Meropos, but that doesn't solve the original problem of content. Well, the lack thereof.
 
----
-
 [s1e1]: https://calcium1528.github.io/gt-reprise/story/route/normal/s1e1
 [s1e2]: https://calcium1528.github.io/gt-reprise/story/route/normal/s1e2
 [s1e3]: https://calcium1528.github.io/gt-reprise/story/route/normal/s1e3
