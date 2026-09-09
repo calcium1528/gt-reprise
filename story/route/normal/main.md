@@ -1,5 +1,5 @@
 # Normal route
-The Normal route is Glitchtale's original plot mostly preserved. Mostly. I did have to do a whole lot of retconning, primarily the main battles that happen throughout the two seasons[^1].
+The Normal route is Glitchtale's original plot mostly preserved. Mostly[^1].
 
 ## Season 1
 So I thought I could start from the beginning and not encounter much trouble right away.<br>
