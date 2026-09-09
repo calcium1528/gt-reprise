@@ -14,11 +14,11 @@ LET'S FREAKING DO THIS I'M SO SICK OF CANON'S TIMELINE—
 - 198X: Chara falls into the Underground.
 - 199X-201X: Six more humans follow Chara's steps, but never return alive.
 - 201X: Frisk falls into the Underground.
-- 201X-205X: Frisk experiments with different outcomes, eventually exhausting every possible scenario. Technically lasting 4 years, the compounding effects of multiple RESETs and time dilation far outstretched this timespan.
-- Early January 205X: Season 1's beginning and Frisk's last No Mercy run.
-- Early-mid January 205X: The Barrier is broken and Monsterkind is freed.
-- Mid Feburary 205X: Season 2's beginning and Betty's first appearance in Determino.
-- Late Feburary 205X: Frisk's incomplete erasure from the timeline.
-- Early March 205X: Chara's repair of the timeline.
-- Mid March 205X: Betty and HATE's eventual defeats.
-- 206X: Credits.
+- 201X-203X: Frisk experiments with different outcomes, eventually exhausting every possible scenario. Technically lasting 4 years, the compounding effects of multiple RESETs and time dilation far outstretched this timespan.
+- Early January 203X: Season 1's beginning and Frisk's last No Mercy run.
+- Early-mid January 203X: The Barrier is broken and Monsterkind is freed.
+- Mid Feburary 203X: Season 2's beginning and Betty's first appearance in Determino.
+- Late Feburary 203X: Frisk's incomplete erasure from the timeline.
+- Early March 203X: Chara's desperate repair of the timeline.
+- Mid March 203X: Betty and HATE's eventual losses.
+- 204X: Credits.
