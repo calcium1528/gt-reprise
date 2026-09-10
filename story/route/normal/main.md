@@ -5,15 +5,20 @@ The Normal route is Glitchtale's original plot mostly preserved. Mostly[^1].
 So I thought I could start from the beginning and not encounter much trouble right away.<br>
 Boy do I deeply regret saying that.
 
+### Episode 0 — Initialization
+> For the full plot, see [Initialization][s1e0].
+
+Frisk falls into the Underground for the first time, being the 8th human to encounter Monsterkind after the Barrier's creation centuries ago. With company, they navigate the world and eventually complete the True Pacifist route. Despite that, the feeling that they might have missed small details led them to RESET multiple times after that.
+
 ### Episode 1 — Megalomaniac
 > For the full plot, see [Megalomaniac][s1e1].
 
-Frisk encounters Sans at the Last Corridor after gaining LV 19 in a new No Mercy run. Chara is here to initially assist Frisk, but when Frisk changes strategies knowing they can no longer win through violence, the battle takes a turn for the worse.
+Frisk encounters Sans at the Last Corridor after gaining LV 19 in a new No Mercy run. Chara is here to initially assist Frisk, but when Frisk changes strategies—knowing they can no longer win through violence, the battle takes a turn for the worse.
 
 ### Episode 2 — Yet Darker
 > For the full plot, see [Yet Darker][s1e2].
 
-A mysterious hallway appears on Frisk's way back to Snowdin, with a door leading to the Grey Room—a subsection of the Void, housing a centuries-old Gaster. Taking this chance to possibly return to the real world, Gaster attempts to take Frisk's SOUL in Sans's protest.
+A mysterious hallway appears on Frisk's way back to Snowdin, with a door leading to the Grey Room—a subsection of the Void— housing Gaster. In an attempt to return to the real world, Gaster attempts to take Frisk's SOUL in Sans's protest.
 
 ### Episode 3 — Determination
 > For the full plot, see [Determination][s1e3].
@@ -23,7 +28,7 @@ Accumulated timeline glitches resulted in Chara gaining an empty SOUL and a vess
 ### Episode 4 — Your Best Friend
 > For the full plot, see [Your Best Friend][s1e4].
 
-Placeholding.
+I'll summarize it when I write the full plot.
 
 ### Episode 5 — Continue
 > For the full plot, see [Continue][s1e5].
@@ -97,6 +102,7 @@ Placeholdon't.
 
 [^1]: If you're wondering, there is a canonical Season 3 in the works, but for fuck's sake the author hasn't released an official episode for at least 5 YEARS. They rebranded it to Meropos, but that doesn't solve the original problem of content. Well, the lack thereof.
 
+[s1e0]: https://calcium1528.github.io/gt-reprise/story/route/normal/s1e0
 [s1e1]: https://calcium1528.github.io/gt-reprise/story/route/normal/s1e1
 [s1e2]: https://calcium1528.github.io/gt-reprise/story/route/normal/s1e2
 [s1e3]: https://calcium1528.github.io/gt-reprise/story/route/normal/s1e3
