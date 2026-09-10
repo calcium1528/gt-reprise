@@ -3,7 +3,8 @@ The Normal route is Glitchtale's original plot mostly preserved. Mostly[^1].
 
 ## Season 1
 So I thought I could start from the beginning and not encounter much trouble right away.<br>
-Boy do I deeply regret saying that.
+Boy do I deeply regret saying that.<br>
+I even had to add an EPISODE 0 just to establish a baseline for Frisk's screwed up "experiments" with the timeline. You heard me right. Its summary is right below this line. Absolute cinema.
 
 ### Episode 0 — Initialization
 > For the full plot, see [Initialization][s1e0].
@@ -13,12 +14,12 @@ Frisk falls into the Underground for the first time, being the 8th human to enco
 ### Episode 1 — Megalomaniac
 > For the full plot, see [Megalomaniac][s1e1].
 
-Frisk encounters Sans at the Last Corridor after gaining LV 19 in a new No Mercy run. Chara is here to initially assist Frisk, but when Frisk changes strategies—knowing they can no longer win through violence, the battle takes a turn for the worse.
+Frisk encounters Sans at the Last Corridor after gaining LV 19 in a new No Mercy run. During the battle, Chara is here to initially assist Frisk, but after repeated failures, Frisk changes strategies—knowing they can no longer win through violence. From there, the fight takes a turn for the worse.
 
 ### Episode 2 — Yet Darker
 > For the full plot, see [Yet Darker][s1e2].
 
-A mysterious hallway appears on Frisk's way back to Snowdin, with a door leading to the Grey Room—a subsection of the Void— housing Gaster. In an attempt to return to the real world, Gaster attempts to take Frisk's SOUL in Sans's protest.
+A mysterious hallway appears on Frisk's way back to Snowdin, with a door leading to the Grey Room—a subsection of the Void—housing a Gaster that has been long abandoned in this barren dimension. In an attempt to return to the real world, Gaster attempts to take Frisk's SOUL in Sans's protest.
 
 ### Episode 3 — Determination
 > For the full plot, see [Determination][s1e3].
@@ -28,7 +29,7 @@ Accumulated timeline glitches resulted in Chara gaining an empty SOUL and a vess
 ### Episode 4 — Your Best Friend
 > For the full plot, see [Your Best Friend][s1e4].
 
-I'll summarize it when I write the full plot.
+With the most recent confrontation with Chara failing, Sans and Flowey consult Gaster for help, who has just recovered from his last duel with Sans, but nevertheless comes along to stop Chara at all costs. Together with Frisk, they meet up with Chara at the Barrier, but the hurdles won't end there.
 
 ### Episode 5 — Continue
 > For the full plot, see [Continue][s1e5].
@@ -37,7 +38,7 @@ Placeholded.
 
 ## Season 2
 Now I thought, "maybe S1 was merely the beginning, this next season's about to rectify many of the plot holes and continue on it," and it couldn't be worse than this.<br>
-But after seeing Frisk just "lol goodbye" in S2E5 has made me question why I even watched Glitchtale and pulled myself down this rabbit hole.
+But after seeing Frisk just "lol goodbye" in S2E5, it has made me question why I even watched Glitchtale and pulled myself down this rabbit hole.
 
 ### Episode 1 — My Sunshine
 > For the full plot, see [My Sunshine][s2e1].
