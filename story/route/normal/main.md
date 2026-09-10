@@ -9,7 +9,7 @@ I even had to add an EPISODE 0 just to establish a baseline for Frisk's screwed 
 ### Episode 0 — Initialization
 > For the full plot, see [Initialization][s1e0].
 
-Frisk falls into the Underground for the first time, being the 8th human to encounter Monsterkind after the Barrier's creation centuries ago. With company, they navigate the world and eventually complete the True Pacifist route. Despite that, the feeling that they might have missed small details led them to RESET multiple times after that.
+Frisk falls into the Underground for the first time, being the 8th human to encounter Monsterkind after the Barrier's creation centuries ago. With company, they navigate the world and eventually complete the True Pacifist route. Despite that, feeling they might have missed certain important plot, they began RESETting continuously after their first run.
 
 ### Episode 1 — Megalomaniac
 > For the full plot, see [Megalomaniac][s1e1].
