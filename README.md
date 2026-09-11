@@ -8,10 +8,12 @@ Canon is currently starring:
 - A cute little pink demon girl who tries to destroy the world and also murdered two of her family members just because she hated losing.
 - And perhaps 100+ more main/side characters and stupid plot I haven't gotten time to list here yet.
 
-Yes, yes, I know, it's not entirely original. "Glitchtale" is already an existing alternate timeline concept, but just please take a look at its narrative for one second.<br>
+Yes, yes, "Glitchtale" is already an existing alternate timeline concept, but just please take a look at its narrative for one second.<br>
 - Why was Frisk able to reset for 30 years without physically aging?
-- Why was Sans's previously defunct machine able to bring the dead (Gaster) back from the literal Void of all places?
-- Who or what the fuck is Betty? Agate? Amber? Amber with Agate's memories? Agate with Amber's vessel? This shit somehow got personal.
+- Why was Sans's previously defunct machine able to bring Gaster back from the Void of all places?
+- Who or what the fuck is Betty? Agate? Amber? Amber with Agate's memories? Agate with Amber's vessel? This somehow got ridiculously personal.
+- Why is there no `timeline1.file`, but a seperate `timeline2.file` from the original unnamed timeline's remains and a `game over.file` when the latter has not even been brought up literally anywhere before?
+- Why is Determination simultaneously a seperate trait, the balance of all traits, an essence monsters have, the only way to get timeline manipulation powers, and why can Fear specifically overpower it when Gaster can rip the hell out of Betty?
 - WHY ARE FRISK AND CHARA GENDERED.
 
 There are so many plot holes here and there that I would have grandchildren by the time I laid all of them out.
@@ -21,22 +23,20 @@ Enjoy. When the site becomes less empty.
 ## Currently available links
 - [Reality](https://calcium1528.github.io/gt-reprise/general/reality)
 - [History](https://calcium1528.github.io/gt-reprise/story/history)
-- [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/main)[^1]
+- [Normal route](https://calcium1528.github.io/gt-reprise/story/route/normal/main)
 - [SOUL](https://calcium1528.github.io/gt-reprise/general/soul/main)
 - [SOUL traits](https://calcium1528.github.io/gt-reprise/general/soul/trait)
 - [Frisk](https://calcium1528.github.io/gt-reprise/character/frisk)
 - [Chara](https://calcium1528.github.io/gt-reprise/character/chara)
-- [Agate/Betty](https://calcium1528.github.io/gt-reprise/character/agate)[^2]
+- [Agate/Betty](https://calcium1528.github.io/gt-reprise/character/agate)[^1]
 
 ## Currently unavailable links (this is NOT all)
 - [Sans](https://calcium1528.github.io/gt-reprise/character/sans)
-- [Asriel](https://calcium1528.github.io/gt-reprise/character/asriel)
+- [Asriel/Flowey](https://calcium1528.github.io/gt-reprise/character/asriel)[^1]
 - [Toriel](https://calcium1528.github.io/gt-reprise/character/toriel)
 - [Asgore](https://calcium1528.github.io/gt-reprise/character/asgore)
 - [Slightly awkward route that involves increasingly sophisticated prerequisites](https://calcium1528.github.io/gt-reprise/story/route/weird/main)
 
 ---
 
-[^1]: There are plans for two entirely different routes. Be aware.
-
-[^2]: These two were merged with purpose.
+[^1]: These two were merged with purpose.
