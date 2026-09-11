@@ -41,4 +41,4 @@ Enjoy. When the site becomes less empty.
 
 [^1]: These two were merged with purpose.
 
-[^2] "Weird" is a trademark of the role-playing game Deltarune, written by lead developer Tobias Foxington and his colleagues at Royal Sciences LLC. Copyright 2021-present.
+[^2]: "Weird" is a trademark of the role-playing game Deltarune, written by lead developer Tobias Foxington and his colleagues at Royal Sciences LLC. Copyright 2021-present.
