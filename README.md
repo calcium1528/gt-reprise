@@ -1,6 +1,6 @@
-# Glitchtale: Reprise
-Welcome to the home for the all-new Undertale fanmade story, "Glitchtale: Reprise"!<br>
-This series's mission statement: *"making valid fan interpretations (Reprise) of fandom document (GT's Fandom wiki) of canon information (GT animatics and Meropos wiki)."*
+# Glitchtale Reprise
+***Glitchtale Reprise*** is a project based on Glitchtale aimed at fixing the prominent problems with its narrative.<br>
+This project's mission statement: *"making sense of canon."*
 
 Canon is currently starring:
 - A nonbinary child who continously reset for multiple years to explore "every possible outcome".
@@ -35,8 +35,10 @@ Enjoy. When the site becomes less empty.
 - [Asriel/Flowey](https://calcium1528.github.io/gt-reprise/character/asriel)[^1]
 - [Toriel](https://calcium1528.github.io/gt-reprise/character/toriel)
 - [Asgore](https://calcium1528.github.io/gt-reprise/character/asgore)
-- [Slightly awkward route that involves increasingly sophisticated prerequisites](https://calcium1528.github.io/gt-reprise/story/route/weird/main)
+- [Slightly awkward route that involves increasingly sophisticated prerequisites](https://calcium1528.github.io/gt-reprise/story/route/weird/main)[^2]
 
 ---
 
 [^1]: These two were merged with purpose.
+
+[^2] "Weird" is a trademark of the role-playing game Deltarune, written by lead developer Tobias Foxington and his colleagues at Royal Sciences LLC. Copyright 2021-present.
