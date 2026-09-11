@@ -23,7 +23,7 @@ Certain individuals with the Determination trait can interact with SAVE files th
 These functions do not necessarily affect everyone equally. Certain people may retain memories or awareness of previous versions of the timeline.
 
 The only currently active timeline in the Normal route is named `file0`, accessible by a SAVE file of the same name with a different extension, `file0.save`.<br>
-In the Weird route—after fulfilling the route's prerequisites up to S1E5, upon loading S2E1, it will detect malformed data within `file0.save` and clone `file0` to preserve the original timeline, creating `file1`. This then replaces `file0` as the active timeline. It is still accessible with `file0.save`.
+In the Weird route—after fulfilling the route's prerequisites up to S1E5, upon loading S2E1, it will detect malformed data within `file0.save` and clone `file0` to preserve the original timeline, creating `file1`. This will replace `file0` as the active timeline from here on out. The active SAVE file will additionally be renamed to `file1.save`.
 
 An often discussed theory states that multiple timelines can exist at once, but no one has ever attempted to do so because of the possible multiversal interference implications. There has been no proof nor any counter-evidence made on this theory.
 
