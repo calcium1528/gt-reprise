@@ -22,7 +22,9 @@ Multiple SAVE files of one timeline can exist, but having more than one file ris
 Certain individuals with the Determination trait can interact with SAVE files through the SAVE, LOAD, and RESET functions.<br>
 These functions do not necessarily affect everyone equally. Certain people may retain memories or awareness of previous versions of the timeline.
 
-The one and only currently active timeline in Reprise is internally labeled as `file0`.<br>
+The only currently active timeline in the Normal route is named `file0`, accessible by a SAVE file of the same name with a different extension, `file0.save`.<br>
+In the Weird route—after fulfilling the route's prerequisites up to S1E5, upon loading S2E1, it will detect malformed data within `file0.save` and clone `file0`, creating `file1`. This replaces `file0` as the active timeline. It is still accessible with `file0.save`.
+
 An often discussed theory states that multiple timelines can exist at once, but no one has ever attempted to do so because of the possible multiversal interference implications. There has been no proof nor any counter-evidence made on this theory.
 
 ### Functions
