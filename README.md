@@ -1,5 +1,5 @@
 # Project: Reprise
-***Project: Reprise*** is an independent project based on Glitchtale, aimed at fixing certain narrative issues while preserving the canon storyline as faithfully as possible.<br>
+***Project: Reprise*** is an independent project based on Glitchtale, aimed at fixing certain narrative issues of canon while preserving its storyline as faithfully as possible.<br>
 This project is not affiliated with the original author of Glitchtale—Camila Cuevas—nor the Glitchtale Crew.
 
 This project's mission statement: *"making sense of canon."*
