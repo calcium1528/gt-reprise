@@ -1,31 +1,39 @@
 # Reality
 I am in absolute dismay with `timeline2.file`. I am not repeating the author's mistakes.
 
+This is a work in progress. Expect holes to be patched.
+
 ## Overview
-Reality is the complete construct in which existence occurs. It consists of three fundamentally seperate components:
-- The engine, which handles the execution of timelines and SAVE files.
-- The timeline, where time flows and existence progresses.
-- The Void, which exists outside conventional space and time.
+Reality is the aggregate construct of three fundamentally seperate components:
+- The Engine, the core processing layer.
+- A timeline, where existence progresses.
+- The Void, which exists independent of timelines.
 
-Changes to one may affect others, and certain entities are capable of interacting with both the timeline and the Void.
-
-A universe does not constitute a separate Reality. Multiple universes, if they exist, are contained within the same overall construct.
+A timeline does not constitute a separate Reality. Multiple timelines, if they exist, are contained within the same overall construct.
 
 ## Components
 
 ### Engine
-The engine is the core processing layer of Reality of which timeline functions are handled. It is not a location or dimension of Reality.
+The Engine is the core processing layer of Reality. It handles timelines, SAVE files, and file functions. It is not, in any way, a location of Reality.
 
-A SAVE file (aka. a file) is a save state of a timeline. Certain beings possessing Determination can access these files through SAVE points.<br>
-A SAVE point is an object that manifests around the world, providing an interface for entities to interact with SAVE files using the SAVE, LOAD, RESET, and ERASE functions. A few people with Determination are able to directly access this interface without the need of a SAVE point.
+A SAVE file (aka. a file) is a save state of a timeline recording all events from a certain point in time up to when the file was last modified.<br>
+A SAVE point provides a SAVE file interface, which lets entities interact with files using SAVE file functions.
 
-These functions do not necessarily affect everyone equally. Some people may retain memories or awareness of previous versions of the timeline.
+Only certain people with Determination are able to:
+- Possess 1 personal SAVE file of 1 timeline at a time.
+- Access and modify SAVE files using SAVE file functions.
+- Directly bring up the SAVE file interface when they wish to without needing a SAVE point.
 
-#### Timeline functions
-- SAVE records the current state of the timeline at a specific point to a SAVE file. If one already exists associated with the timeline, it is normally overwritten (edge cases will soon be brought to light).
-- LOAD restores the timeline to the state recorded by the current SAVE file.
-- RESET discards the current SAVE file and returns the timeline to an earlier state, while retaining certain information that is not stored within the SAVE.
-- *ERASE is yet to be documented. Give me some time.*
+#### SAVE file functions
+The four currently known file functions are *SAVE*, *LOAD, *RESET*, and *ERASE*.
+
+These file functions do not necessarily affect everyone equally. Some people may retain memories or awareness of previous versions of a timeline.
+
+Each file function has a dedicated ability.
+- *SAVE*: Records the current state of a timeline, and lets the user save it to a SAVE file. If they choose to save to an existing file, its previous contents will be overwritten.
+- *LOAD*: Restores a timeline's state to the state recorded by the user's chosen SAVE file, and physically moves them to that timeline at the destination they last performed a SAVE.
+- *RESET*: Restores a timeline's state to a certain point in time, and permamently erases the SAVE file the user has associated with that timeline.
+- *ERASE*: Permamently erases the user's chosen SAVE file.
 
 ### Timeline
 A timeline is a continuous sequence of events, generally of existence, making up a universe’s history.<br>
