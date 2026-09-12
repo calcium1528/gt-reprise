@@ -20,22 +20,24 @@ A SAVE file (aka. a file) is a save state of a timeline recording all events fro
 A SAVE point provides a SAVE file interface, which lets entities interact with files using SAVE file functions.
 
 Only certain people with Determination are able to:
-- Possess 1 personal SAVE file of 1 timeline at a time.
+- Possess only 1 personal SAVE file linked to 1 timeline.
 - Access and modify SAVE files using SAVE file functions.
 - Directly bring up the SAVE file interface when they wish to without needing a SAVE point.
 
 #### SAVE file functions
-The four currently known file functions are *SAVE*, *LOAD*, *RESET*, and *ERASE*.
+The four currently known file functions are *SAVE*, *LOAD*, *RESET*, and *ERASE*. These can only modify the user's own SAVE file.
 
 These file functions do not necessarily affect everyone equally. Some people may retain memories or awareness of previous versions of a timeline.
 
 Each file function has a dedicated ability.
-- *SAVE*: Records the current state of a timeline, and lets the user save it to a SAVE file. If they choose to save to an existing file, its previous contents will be overwritten.
-- *LOAD*: Restores a timeline's state to the state recorded by the user's chosen SAVE file, and physically moves them to that timeline at the destination they last performed a SAVE.
-- *RESET*: Restores a timeline's state to a certain point in time, and permamently erases the SAVE file the user has associated with that timeline.
-- *ERASE*: Permamently erases the user's chosen SAVE file.
+- *SAVE*: Records the current state of the timeline, and either makes a new SAVE file (if the user doesn't already have one) or overwrites their existing file.
+- *LOAD*: Restores the timeline's state to the state recorded by the user's SAVE file, and physically moves them to the destination they last performed a SAVE.
+- *RESET*: Restores the timeline's state to a certain point in time, and permamently destroys the user's SAVE file.
+- *ERASE*: Permamently destroys the user's SAVE file.
 
-### Timeline
+Exceptions arise when an user with a Determination SOUL has another's Determination magic, in which they are able to also access the other user's file (see Chara in S1E3).
+
+### Timeline (pending rewrite)
 A timeline is a continuous sequence of events, generally of existence, making up a universe’s history.<br>
 
 A timeline, in normal conditions, only ever has one SAVE file, and it is frequently updated over time.<br>
@@ -49,7 +51,7 @@ This will replace `file0` as the active timeline. The active SAVE file will addi
 
 An often discussed theory states that multiple timelines can exist at once—more specifically, run in parallel, not merely live dormant—but no one has ever attempted to do so because of the possible multiversal interference implications. There has been no proof nor any counter-evidence made on this theory.
 
-### The Void
+### The Void (pending expansion)
 The Void is a dimension existing outside the boundaries of defined space and time. It does not possess a sequence of events of its own.
 
 The Void lives independent of timelines and allows entities within it to observe events occurring within Reality.<br>
