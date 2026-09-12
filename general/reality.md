@@ -35,7 +35,7 @@ Each file function has a dedicated ability.
 - *RESET*: Restores the timeline's state to a certain point in time, and permamently destroys the user's SAVE file.
 - *ERASE*: Permamently destroys the user's SAVE file.
 
-Exceptions arise when an user with a Determination SOUL has another's Determination magic, in which they are able to also access the other user's file (see Chara in S1E3).
+Exceptions arise when an user has another's Determination magic or SOUL, in which they are able to access the other user's file (see Sans in S1E1/E2, Chara in S1E3, both controlling Frisk's file).
 
 ### Timeline (pending rewrite)
 A timeline is a continuous sequence of events, generally of existence, making up a universe’s history.<br>
