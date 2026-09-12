@@ -25,7 +25,7 @@ Only certain people with Determination are able to:
 - Directly bring up the SAVE file interface when they wish to without needing a SAVE point.
 
 #### SAVE file functions
-The four currently known file functions are *SAVE*, *LOAD, *RESET*, and *ERASE*.
+The four currently known file functions are *SAVE*, *LOAD*, *RESET*, and *ERASE*.
 
 These file functions do not necessarily affect everyone equally. Some people may retain memories or awareness of previous versions of a timeline.
 
