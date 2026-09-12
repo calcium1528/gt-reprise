@@ -1,7 +1,10 @@
-# Glitchtale Reprise
-***Glitchtale Reprise*** is a project based on Glitchtale aimed at fixing the prominent problems with its narrative.<br>
+# Project: Reprise
+***Project: Reprise*** is an independent project based on Glitchtale, aimed at fixing certain narrative issues while preserving the canon storyline as faithfully as possible.<br>
+This project is not affiliated with the original author of Glitchtale—Camila Cuevas—nor the Glitchtale Crew.
+
 This project's mission statement: *"making sense of canon."*
 
+## Personal rant
 Canon is currently starring:
 - A nonbinary child who continously reset for multiple years to explore "every possible outcome".
 - A tired skeleton comedian that happens to get PTSD every time you mention the word "RESET" in front of him.
