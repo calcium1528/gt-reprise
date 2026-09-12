@@ -16,9 +16,10 @@ A universe does not constitute a separate Reality. Multiple universes, if they e
 ### Engine
 The engine is the core processing layer of Reality of which timeline functions are handled. It is not a location or dimension of Reality.
 
-A SAVE file (aka. a file) is a save state of a timeline.<br>
-Certain individuals with the Determination trait can interact with SAVE files through the SAVE, LOAD, RESET, and ERASE functions.<br>
-These functions do not necessarily affect everyone equally. Certain people may retain memories or awareness of previous versions of the timeline.
+A SAVE file (aka. a file) is a save state of a timeline. Certain beings possessing Determination can access these files through SAVE points.<br>
+A SAVE point is an object that manifests around the world, providing an interface for entities to interact with SAVE files using the SAVE, LOAD, RESET, and ERASE functions. A few people with Determination are able to directly access this interface without the need of a SAVE point.
+
+These functions do not necessarily affect everyone equally. Some people may retain memories or awareness of previous versions of the timeline.
 
 #### Timeline functions
 - SAVE records the current state of the timeline at a specific point to a SAVE file. If one already exists associated with the timeline, it is normally overwritten (edge cases will soon be brought to light).
