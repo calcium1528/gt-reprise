@@ -1,9 +1,7 @@
 # SOUL traits
-**WARNING:** *This page contains sophisticated foundational shit. I am not sorry for writing it this way. This is not finished.*
-
-## Overview
 SOUL traits are powerful singularities of Chromatic Magic... wait I haven't defined Chromatic Magic—
 
+## Overview
 SOUL traits are distinct traits represented by different colors that are tied to colorful magic. Okay, that actually works.[^1]
 
 What trait(s) a person is able to develop (aka. make dominant) is heavily influenced by their personal life experiences, personality, and behavior.<br>
@@ -32,7 +30,7 @@ Its magic is derived from the user's will, and in extreme cases, it can grant th
 One may lose Determination when feeling hopeless or demotivated in a situation.
 
 ### Bravery
-Bravery is driven by *courage*.<br>
+Bravery is driven by *courage and boldness*.<br>
 It has one of the most aggressive combat styles of all seven traits.
 
 Bravery can be divided into two different aspects: physical Bravery and moral Bravery.
@@ -43,9 +41,9 @@ People with Bravery usually have these aspects balanced, but in rare cases, one 
 A skewed Bravery trait is often less stable, and the user can lose their trait more easily compared to those with a balanced Bravery trait.
 
 Bravery's combat style is typically centered around fast maneuvers and aggression.<br>
-Its magic allows users to dash through attacks that would normally harm them. This ability can also be used to charge at their opponent rapidly.
+Its magic allows users to dash through attacks that would normally harm them. This ability can also be used to charge at their opponent rapidly, catching them off-guard and creating openings.
 
-One may lose Bravery when feeling coward, ashamed, or feared.
+One may lose Bravery when feeling coward, ashamed, or frightened.
 
 ### Justice
 Justice is driven by *personal moral convinction*.<br>
@@ -88,32 +86,50 @@ Its magic commonly shows up as strings/ropes that can restrain others' movements
 One may lose Patience because of anxiety and the tendency to rush actions.
 
 ### Integrity
-Integrity is driven by *moral principles and honesty*.<br>
+Integrity is driven by *principle and honesty*.<br>
 It is the most common dominant trait, but ironically, it is also one that is easiest to lose.
 
 People with Integrity adhere to their own morals/principles and know to remain true to themselves.<br>
 There is, however, a glaring flaw: even the smallest of mistakes can compromise their "integrity", like lying to others or covering up someone's mishaps/wrongdoings.<br>
 Sometimes the mistakes aren't immediately visible; sometimes they are objectively correct decisions. Integrity users have to stay morally and emotionally strong enough to deal with those situations.
 
-Integrity's combat style `[pending update, please wait...]`<br>
-Its magic `[pending update, please wait...]`
+Integrity's combat style is not well-defined, mainly because of the trait's versatility.
+Its magic is centered around basic physics manipulation. For passive use, platforms can be created and let their user travel quickly between destinations. As a means of defense, gravity can be skewed to redirect attacks away from them. Offensively, kinetic force is used to move objects at high speeds.
 
-One can lose Integrity through breaking their own morals or break down in an emotionally difficult circumstances.
+One can lose Integrity through breaking their own morals or break down in emotionally difficult circumstances.
 
 ### Perseverance
 Perseverance is driven by *endurance and resillience*.<br>
 It is most similar to Determination, but crucially, the two are still seperate traits.
 
-People with Perseverance are not easily wavered by obstacles, and will keep striving to continue despite their hardships.<br>
-Merely setting a goal to work on already works to enhance their magic, somewhat like Determination.
+People with Perseverance are not easily wavered by obstacles, and will strive to continue despite hardships.<br>
+Merely setting a goal to work on already works to enhance their magic, somewhat like Determination. The difference is, Perserveance operates on something closer to "the will to continue", not "the will to achieve".<br>
+Even so, most Determination users have developed Perseverance at least once in their life due to the similarities of the two traits.
 
-Perseverance's combat style `[pending update, please wait...]`<br>
-Its magic `[pending update, please wait...]`
+Perseverance's combat style mirrors that of Determination, which is primarily attrition.<br>
+Its magic is relatively balanced, but most users focus on anti-healing attacks, which leave long-lasting wounds that are difficult to recover from. They can also penetrate defenses relatively easily.
 
 One may lose Perseverance by becoming lazy or giving up.
 
 ## Inverted traits
-Subtle foreshadowing here.
+Inverted traits are artificially altered base traits representing negative versions of themselves. The traits' magical and emotional expressions drastically oppose that of, but are still connected to, their base counterparts.
+
+Inverted traits are generally more powerful than their base equivalents, but only a few have attempted to invert their trait because of its difficulty.<br>
+Natural trait development cannot produce an inverted trait. To do so, a dedicated inversion process must be performed.
+
+### Inversion procedure
+The process of inversion is exclusive to human SOULs, and may only affect the user's dominant trait(s). If the user's SOUL is either empty or has no dominant trait, inversion cannot happen by any means, and it may prove lethal.
+
+The most common methods require the presence of HATE in sufficient  concentrations.
+- Direct inversion is achieved by letting HATE naturally develop within the user's SOUL, usually when they have intense hatred towards something, and corrupt their SOUL from the inside out.
+- External inversion lets the user supply HATE from outer sources, but merely coating their SOUL in it will not work. The HATE must enter their SOUL, from which the process then continues like a direct inversion.
+
+Inversion will take a toll on the user's health, and may risk loss of self-control and even death, but no truly reliable method has been found.
+
+Reverting an inverted trait requires a level of magical tolerance that humans cannot physically possess after their first inversion, and as such, no cases of reversion have survived.
+
+### Fear
+I'll write more later, but just so you know, it has been the only documented instance of an inverted trait.
 
 ---
 
