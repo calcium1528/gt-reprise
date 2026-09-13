@@ -5,17 +5,15 @@ Oh you poor child. Or was she an adult? It's confusing.
 
 |Entry|Data|
 |:---|:---|
-|Full name|Agate Lightvale (formerly)<br>Bête Noire|
-|Aliases|Betty (Bête Noire)|
+|Full name|Agate Lightvale|
+|Aliases|None|
 |Gender|Female|
-|Pronouns|she/her (formerly)<br>she/her, it/its (Bête Noire)|
+|Pronouns|she/her|
 |SOUL traits|Bravery (formerly)<br>Fear|
-|Relationships|Frisk (enemy)<br>Chara (enemy)<br>Asriel (victim, former minion, enemy)<br>Sans (victim, former minion, enemy)<br>Gaster (killer, enemy)<br>Amber (younger sister, victim, vessel)<br>Copper (twin brother, victim)|
+|Relationships|Amber (younger sister, victim)<br>Copper (twin brother, victim)|
 
 **Weird route changes:**<br>
 Not yet.
-
-No Event table yet.
 
 The one thing—or person, if you will—I've always wanted to make sense of is Betty.<br>
 Who or what is she?<br>
