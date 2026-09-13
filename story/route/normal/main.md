@@ -34,7 +34,7 @@ With the most recent confrontation with Chara failing, Sans and Flowey consult G
 ### Episode 5 — Continue
 > For the full plot, see [Continue][s1e5].
 
-Placeholded.
+The final confrontation at the Barrier takes place, with Asriel now possessing 7 different SOULs to defend against Chara's HATE-infused Determination. Firepower alone won't cut it, and Asriel will have to find a way to pacify their sibling, along with freeing Monsterkind as a whole.
 
 ## Season 2
 Now I thought, "maybe S1 was merely the beginning, this next season's about to rectify many of the plot holes and continue on it," and it couldn't be worse than this.<br>
@@ -53,19 +53,12 @@ Placeholder.
 ### Episode 3 — Do or Die
 > For the full plot, see [Do or Die][s2e3].
 
-Placeholder.
+Placeholdant.
 
 ### Episode 4 — LOVE
+> For the full plot, see [LOVE][s2e4].
 
-#### Part 1
-> For the full plot, see [LOVE (Part 1)][s2e4p1].
-
-Placeholder #1.
-
-#### Part 2
-> For the full plot, see [LOVE (Part 2)][s2e4p2].
-
-Placeholder #2.
+Placeholdon't.
 
 ### Episode 5 — My Promise
 > For the full plot, see [My Promise][s2e5].
@@ -73,16 +66,9 @@ Placeholder #2.
 Placeholdery.
 
 ### Episode 6 — Game Over
+> For the full plot, see [Game Over][s2e6].
 
-#### Part 1
-> For the full plot, see [Game Over (Part 1)][s2e6p1].
-
-Placehelder #1.
-
-#### Part 2
-> For the full plot, see [Game Over (Part 2)][s2e6p2].
-
-Placehelder #2.
+Placehelder.
 
 ### Episode 7 — HATE
 > For the full plot, see [HATE][s2e7].
@@ -97,7 +83,7 @@ Placeholdit.
 ### Episode 9 — Hope
 > For the full plot, see [Hope][s2e9].
 
-Placeholdon't.
+Placeholdest.
 
 ---
 
@@ -113,11 +99,9 @@ Placeholdon't.
 [s2e1]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e1
 [s2e2]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e2
 [s2e3]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e3
-[s2e4p1]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e4p1
-[s2e4p2]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e4p2
+[s2e4]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e4
 [s2e5]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e5
-[s2e6p1]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e6p1
-[s2e6p2]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e6p2
+[s2e6]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e6
 [s2e7]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e7
 [s2e8]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e8
 [s2e9]: https://calcium1528.github.io/gt-reprise/story/route/normal/s2e9
