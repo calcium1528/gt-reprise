@@ -15,8 +15,8 @@ Yes, yes, "Glitchtale" is already an existing alternate timeline concept, but ju
 - Why was Frisk able to reset for 30 years without physically aging?
 - Why was Sans's previously defunct machine able to bring Gaster back from the Void of all places?
 - Who or what the fuck is Betty? Agate? Amber? Amber with Agate's memories? Agate with Amber's vessel? This somehow got ridiculously personal.
-- Why is there no `timeline1.file`, but a seperate `timeline2.file` from the original unnamed timeline's remains and a `game over.file` when the latter has not even been brought up literally anywhere before?
-- Why is Determination simultaneously a seperate trait, the balance of all traits, an essence monsters have, the only way to get timeline manipulation powers, and why can Fear specifically overpower it when Gaster can rip the hell out of Betty?
+- Why is there no `timeline1.file`, but a separate `timeline2.file` from the original unnamed timeline's remains and a `game over.file` when the latter has not even been brought up literally anywhere before?
+- Why is Determination simultaneously a separate trait, the balance of all traits, an essence monsters have, the only way to get timeline manipulation powers, and why can Fear specifically overpower it when Gaster can rip the hell out of Betty?
 - WHY ARE FRISK AND CHARA GENDERED.
 
 There are so many plot holes here and there that I would have grandchildren by the time I laid all of them out.
