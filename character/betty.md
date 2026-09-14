@@ -7,12 +7,12 @@ Those are two coompletely different understandings, and only one is valid.
 |Entry|Data|
 |:---|:---|
 |Full name|Bête Noire|
-|Species|Magical construct (Human/Magic)
+|Species|Magical construct (Human/Magic)|
 |Aliases|Betty (Human)<br>Akumu (Magic)|
 |Gender|Not specified|
 |Pronouns|she/her, it/its (collective)<br>she/her (Human)<br>it/its (Magic)|
 |SOUL traits|Fear|
-|Relationships|Frisk (enemy)<br>Chara (enemy)<br>Asriel (victim, former minion, enemy)<br>Sans (victim, former minion, enemy)<br>Gaster (killer, enemy)|
+|Relationships|Agate (creator, former identity)<br>Frisk (enemy)<br>Chara (enemy)<br>Asriel (victim, former minion, enemy)<br>Sans (victim, former minion, enemy)<br>Gaster (killer, enemy)|
 
 **Weird route changes:**<br>
 Not yet.
