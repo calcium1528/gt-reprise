@@ -6,11 +6,12 @@ Oh you poor child. Or was she an adult? It's confusing.
 |Entry|Data|
 |:---|:---|
 |Full name|Agate Lightvale|
+|Species|Human|
 |Aliases|None|
 |Gender|Female|
 |Pronouns|she/her|
 |SOUL traits|Bravery (formerly)<br>Fear|
-|Relationships|Amber (younger sister, victim)<br>Copper (twin brother, victim)|
+|Relationships|Amber (younger sister, victim)<br>Copper (twin brother, victim)<br>Bête Noire (creator, separate identity)|
 
 **Weird route changes:**<br>
 Not yet.
