@@ -1,11 +1,20 @@
 # Chara
 Oh, now we're talking.
 
+**Normal route:**
+
 |Entry|Data|
 |:---|:---|
-|Gender|Nonbinary|
+|Full name|Chara|
+|Species|Human|
+|Aliases|None|
+|Gender|Not specified|
 |Pronouns|they/them|
-|SOUL trait(s)|Determination|
+|SOUL traits|Determination|
+|Relationships|Frisk (ally, former enemy)<br>Asriel (ally, former enemy)<br>Sans (former enemy, former victim, allu)<br>Gaster (ally)|
+
+**Weird route changes:**<br>
+Not yet.
 
 |Event|Date|
 |:---|:---|
