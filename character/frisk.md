@@ -1,11 +1,20 @@
 # Frisk
 ...where do I start?
 
+**Normal route:**
+
 |Entry|Data|
 |:---|:---|
-|Gender|Nonbinary|
-|Pronouns|they/them (initially[^3])|
-|SOUL Trait(s)|Determination (initially[^3])|
+|Full name|Frisk|
+|Species|Human|
+|Aliases|None|
+|Gender|Not specified|
+|Pronouns|they/them|
+|SOUL traits|Determination|
+|Relationships|Chara (ally, former enemy)<br>Asriel (ally)<br>Sans (complicated past, ally)<br>Gaster (ally)|
+
+**Weird route changes:**<br>
+Not yet.
 
 |Event|Date|
 |:---|:---|
@@ -45,5 +54,3 @@ Expect me to rant more later on when this site grows.
 [^1]: Oh, you don't know how massive this is just yet. I said no to gendering Frisk, but you just have to imagine the utter confusion of the Dreemurr parents and basically everyone else alive besides Chara (for special reasons) when they look at their resurrected child and don't recognize them as anyone more than a lost girl from the streets. That aligns with the fact that Frisk's vessel is Betty's, and hence female. No, they are still nonbinary, only their presentation changed.
 
 [^2]: Ah. That's the other half of the resurrection story. If the first footnote was the result, this is the preparation. I'm not gonna spoil too much as the site is still growing.
-
-[^3]: The Weird route spoilers are still here, just not in your eyes anymore. Speaking of, here's 1[^1] and 2[^2].
