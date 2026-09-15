@@ -6,7 +6,7 @@ This is a work in progress. Expect holes to be patched.
 ## Overview
 Reality is the aggregate construct of three fundamentally seperate components:
 - The Engine, the core processing layer.
-- A timeline, where existence progresses.
+- The timeline, where existence progresses.
 - The Void, which exists independent of timelines.
 
 A timeline does not constitute a separate Reality. Multiple timelines, if they exist, are contained within the same overall construct.
@@ -37,17 +37,17 @@ Each file function has a dedicated ability.
 
 Exceptions arise when an user has another's Determination magic or SOUL, in which they are able to access the other user's file (see Sans in S1E1/E2, Chara in S1E3, both controlling Frisk's file).
 
-### Timeline (pending rewrite)
-A timeline is a continuous sequence of events, generally of existence, making up a universe’s history.<br>
-
-A timeline, in normal conditions, only ever has one SAVE file, and it is frequently updated over time.<br>
-Multiple SAVE files of one timeline can exist, but having more than one file risks compromising the timeline's integrity.
+### Timeline (pending expansion)
+A timeline is a continuous sequence of events, generally of existence, making up a universe’s history. A universe, for simplicity, is a physical dimension of Reality where space and time are defined.<br>
 
 #### Existing timelines
-The only active timeline in the Normal route is internally named `file0`, accessible by a SAVE file of the same name with a different extension, `file0.save`.
+The original timeline is internally named `file0`, with only one SAVE file used to access this timeline owned by Frisk, named `.save`.
 
-In the Weird route, the route prerequisites may be fulfilled up to S1E5. Upon loading S2E1, the engine will detect malformed data within `file0.save` and clone `file0` to preserve the original timeline, creating `file1`.<br>
-This will replace `file0` as the active timeline. The active SAVE file will additionally be renamed to `file1.save`.
+In both routes, `file0` progresses from the beginning of Human/Monster history up to 201X, Frisk's first fall into the Underground. The effects of time dilation pushed this event to 203X, where the modern era later takes place.
+
+In the Normal route, `file0` moves from early 203X all the way to early 204X, spanning the two seasons.
+
+In the Weird route, `file0` is cloned in S2E1 as the Engine detects malformed data within the timeline. The clone, `file1`, replaces `file0` as the active timeline, and Frisk's `.save` is reallocated to this new timeline.
 
 An often discussed theory states that multiple timelines can exist at once—more specifically, run in parallel, not merely live dormant—but no one has ever attempted to do so because of the possible multiversal interference implications. There has been no proof nor any counter-evidence made on this theory.
 
