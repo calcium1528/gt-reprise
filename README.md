@@ -31,17 +31,16 @@ Enjoy. When the site becomes less empty.
 - [SOUL traits](https://calcium1528.github.io/gt-reprise/general/soul/trait)
 - [Frisk](https://calcium1528.github.io/gt-reprise/character/frisk)
 - [Chara](https://calcium1528.github.io/gt-reprise/character/chara)
-- [Agate/Betty](https://calcium1528.github.io/gt-reprise/character/agate)[^1]
+- [Agate](https://calcium1528.github.io/gt-reprise/character/agate)
+- [Bête Noire](https://calcium1528.github.io/gt-reprise/character/betty)
 
 ## Currently unavailable links (this is NOT all)
 - [Sans](https://calcium1528.github.io/gt-reprise/character/sans)
-- [Asriel/Flowey](https://calcium1528.github.io/gt-reprise/character/asriel)[^1]
+- [Asriel/Flowey](https://calcium1528.github.io/gt-reprise/character/asriel)
 - [Toriel](https://calcium1528.github.io/gt-reprise/character/toriel)
 - [Asgore](https://calcium1528.github.io/gt-reprise/character/asgore)
-- [Slightly awkward route that involves increasingly sophisticated prerequisites](https://calcium1528.github.io/gt-reprise/story/route/weird/main)[^2]
+- [Slightly awkward route that involves increasingly sophisticated prerequisites](https://calcium1528.github.io/gt-reprise/story/route/weird/main)[^1]
 
 ---
 
-[^1]: These two were merged with purpose.
-
-[^2]: "Weird" is a trademark of the role-playing game Deltarune, written by lead developer Tobias Foxington and his colleagues at Royal Sciences LLC. Copyright 2021-present.
+[^1]: "Weird" is a trademark of the role-playing game Deltarune, written by lead developer Tobias Foxington and his colleagues at Royal Sciences LLC. Copyright 2021-present.
